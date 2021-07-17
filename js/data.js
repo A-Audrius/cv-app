@@ -12,7 +12,7 @@ const data = {
     "skills": [
         "HTML",
         "CSS",
-        "Javascript",kout 
+        "Javascript",
         "Wordpress",
         "Angular",
     ],
