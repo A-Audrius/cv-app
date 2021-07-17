@@ -20,7 +20,7 @@ const data = {
         ["2020-2021", "SOFTWARE DEVELOPMENT ACADEMY" ],
         ["2001-2005", "VILNIAUS DAILĖS AKADEMIJA"],
     ],
-    "profile": "Esu.......",
+    "profile": "Esu...",
 
     "experience": [
         {
