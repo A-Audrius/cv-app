@@ -17,6 +17,7 @@ const data = {
     ],
     "education": [
         ["2020-2021", "SOFTWARE DEVELOPMENT ACADEMY" ],
+        ["2019 08-09", "VILNIUS CODING SCHOOL"]
         ["2001-2005", "VILNIAUS DAILĖS AKADEMIJA"],
     ],
     "profile": "Man 47-eri. Esu pradedantysis programuotojas. Žengiu pirmuosius žingsnius šioje srityje. Labai viskas įdomu ir dinamiška. Iššūkių tikrai netrūksta, bet tai man patinka, tai yra vienas iš faktorių dėl ko ši sritis yra patraukli. ",
