@@ -46,10 +46,3 @@ document.querySelector('.skills-list').innerHTML = skillsData;
 
 
  
-// * Achievements
-
-let achievementsData = '';
-data.achievements.forEach(item => {
-   achievementsData += `<li>${item},</li>`;
-});
-document.querySelector('.achievements-list').innerHTML = achievementsData;
