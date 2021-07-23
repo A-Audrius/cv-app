@@ -28,7 +28,7 @@ const data = {
             "description": "Tai mano pirmasis projektas: internetinis puslapis rigra.lt. Visas kodas parašytas nuo nulio, perkeltas į Wordpress sistemą, po to ir į nuotolinį serverį. Žinoma ne viskas šiame puslapyje tobula, bet informacija suvaikšto pakankamai sparčiai, viskas kas reikia tvarkingai atsidaro ir užsidaro."
         },
         {
-            "site_address": "https://aadomavicius.github.io/Book-shop-project/",
+            "site_address": "https://a-audrius.github.io/Book-shop/",
             "description": 'Visada norėjau sukurti kažką tokio kaip elekroninę parduotuvę kur duomenys atkeliauja iš nuotolinio serverio(šiuo atveju duomenys ) ir "stebuklingu būdu" atsivaizduoja naršyklėje. Įdomu buvo, kad galėjau panaudoti OOP(objektinį programavimą. Šis projektėlis dar tesiamas..'
         },
   
