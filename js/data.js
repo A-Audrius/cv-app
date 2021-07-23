@@ -17,7 +17,7 @@ const data = {
     ],
     "education": [
         ["2020-2021", "SOFTWARE DEVELOPMENT ACADEMY" ],
-        ["2019 08-09", "VILNIUS CODING SCHOOL"],
+        ["2019 08-09", "VILNIUS CODING SCHOOL" ],
         ["2001-2005", "VILNIAUS DAILĖS AKADEMIJA"],
     ],
     "profile": "Man 47-eri. Esu pradedantysis programuotojas. Žengiu pirmuosius žingsnius šioje srityje. Labai viskas įdomu ir dinamiška. Iššūkių tikrai netrūksta, bet tai man patinka, tai yra vienas iš faktorių dėl ko ši sritis yra patraukli. ",
@@ -25,7 +25,7 @@ const data = {
     "experience": [
         {
             "site_address": "http://rigra.lt",
-            "description": "Tai mano pirmasis projektas: internetinis puslapis rigra.lt. Visas kodas parašytas nuo nulio, perkeltas į Wordpress sistemą, po to ir į nuotolinį serverį. Žinoma ne viskas šiame puslapyje tobula, bet informacija suvaikšto pakankamai sparčiai, viskas kas reikia tvarkingai atsidaro ir užsidaro."
+            "description": "Tai mano pirmasis projektas: internetinis puslapis rigra.lt. Visas kodas parašytas nuo nulio, perkeltas į Wordpress sistemą, po to ir į nuotolinį serverį. Svetainė kurta be dizainerio dėl to yra neišbaigtų vietų, bet informacija suvaikšto pakankamai sparčiai, viskas kas reikia tvarkingai atsidaro ir užsidaro.  "
         },
         {
             "site_address": "https://a-audrius.github.io/Book-shop/",
