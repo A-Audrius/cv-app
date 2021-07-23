@@ -14,6 +14,9 @@ const data = {
         "CSS",
         "Javascript",
         "Wordpress",
+        "Bootstrap",
+        "Photoshop",
+        "Git",
     ],
     "education": [
         ["2020-2021", "SOFTWARE DEVELOPMENT ACADEMY" ],
@@ -31,7 +34,10 @@ const data = {
             "site_address": "https://a-audrius.github.io/Book-shop/",
             "description": 'Visada norėjau sukurti kažką tokio kaip elekroninę parduotuvę kur duomenys atkeliauja iš nuotolinio serverio(šiuo atveju duomenys ) ir "stebuklingu būdu" atsivaizduoja naršyklėje. Įdomu buvo, kad galėjau panaudoti OOP(objektinį programavimą. Šis projektėlis dar tesiamas..'
         },
-  
+        {
+            "site_address": "",
+            "description": 'Nuo 2000 iki 2019 dirbau skulptoriaus-akmenskaldžio darbą paminklų gamybos įmonėse tokiose kaip "Olivino gabras", "Žybartuva", "Amžinasis akmuo" taip pat "Maurer Treppen"(Vokietija). Turiu vizualinę atmintį, matymą, patirties dirbant komandoje, priimant vizualius sprendimus. '
+        },
     ]
     
 };
