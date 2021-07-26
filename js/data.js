@@ -23,7 +23,7 @@ const data = {
         ["2019 08-09", "VILNIUS CODING SCHOOL" ],
         ["2001-2005", "VILNIAUS DAILĖS AKADEMIJA"],
     ],
-    "profile": "Man 47-eri. Esu pradedantysis programuotojas. Žengiu pirmuosius žingsnius šioje srityje. Labai viskas įdomu ir dinamiška. Iššūkių tikrai netrūksta, bet tai man patinka, tai yra vienas iš faktorių dėl ko ši sritis yra patraukli. ",
+    "profile": "Esu pradedantysis programuotojas. Savo ankstesnėje darbinėje veikloje (skupltūroje) sukaupiau didžiulę patirtį, kurią panaudosiu savo naujuose darbuose: turiu vizualinę atmintį, matymą, patirties dirbant komandoje, priimant vizualius sprendimus. Įdomioje ir dinamiškoje programavimo srityje žengiu pirmuosius žingsnius. Iššūkių tikrai netrūksta, bet būtent tai yra didžiausia varomoji jėga.",
 
     "experience": [
         {
@@ -32,11 +32,11 @@ const data = {
         },
         {
             "site_address": "https://a-audrius.github.io/Book-shop/",
-            "description": 'Visada norėjau sukurti kažką tokio kaip elekroninę parduotuvę kur duomenys atkeliauja iš nuotolinio serverio(šiuo atveju duomenys ) ir "stebuklingu būdu" atsivaizduoja naršyklėje. Įdomu buvo, kad galėjau panaudoti OOP(objektinį programavimą. Šis projektėlis dar tesiamas..'
+            "description": 'Visada norėjau sukurti kažką tokio kaip elektroninę parduotuvę, kur duomenys atkeliauja iš nuotolinio serverio (šiuo atveju duomenys laikomi json faile) ir „stebuklingu būdu“ atsivaizduoja naršyklėje. Įdomu buvo, kad galėjau panaudoti OOP (objektinį programavimą). Šis projektas dar tęsiamas.'
         },
         {
             "site_address": "",
-            "description": 'Nuo 2000 iki 2019 dirbau skulptoriaus-akmenskaldžio darbą paminklų gamybos įmonėse tokiose kaip "Olivino gabras", "Žybartuva", "Amžinasis akmuo" taip pat "Maurer Treppen"(Vokietija). Turiu vizualinę atmintį, matymą, patirties dirbant komandoje, priimant vizualius sprendimus. '
+            "description": 'Nuo 2000 iki 2019 dirbau skulptoriaus-akmenskaldžio darbą paminklų gamybos įmonėse tokiose kaip: "Olivino gabras", "Žybartuva", "Amžinasis akmuo" taip pat "Maurer Treppen"(Vokietija).'
         },
     ]
     
