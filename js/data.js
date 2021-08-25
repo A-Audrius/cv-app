@@ -23,7 +23,7 @@ const data = {
         ["2019 08-09", "VILNIUS CODING SCHOOL" ],
         ["2001-2005", "VILNIAUS DAILĖS AKADEMIJA"],
     ],
-    "profile": "Esu pradedantysis programuotojas. Savo ankstesnėje darbinėje veikloje (skupltūroje) sukaupiau didžiulę patirtį, kurią panaudosiu savo naujuose darbuose: turiu vizualinę atmintį, matymą, patirties dirbant komandoje, priimant vizualius sprendimus. Įdomioje ir dinamiškoje programavimo srityje žengiu pirmuosius žingsnius. Iššūkių tikrai netrūksta, bet būtent tai yra didžiausia varomoji jėga.",
+    "profile": "Esu pradedantysis programuotojas. Savo ankstesnėje darbinėje veikloje (skupltūroje) sukaupiau patirtį, kurią panaudosiu savo naujuose darbuose: turiu vizualinę atmintį, matymą, patirties dirbant komandoje, priimant vizualius sprendimus. Įdomioje ir dinamiškoje programavimo srityje žengiu pirmuosius žingsnius. Iššūkių tikrai netrūksta, bet būtent tai yra didžiausia varomoji jėga.",
 
     "experience": [
         {
