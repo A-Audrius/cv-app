@@ -2,6 +2,11 @@
 document.querySelector('#my-name').innerHTML = `${data.first_name} <span class="color-grey">${data.last_name}</span>`;
 document.querySelector('#job-title').textContent = data.job_title;
 document.querySelector('.profile-data').textContent = data.profile;
+let newLine = document.createElement('p');
+newLine.innerHTML = data.profile_newLine;
+newLine.innerHTML = data.profile_newLine;
+document.querySelector('.profile-data').appendChild(newLine);
+
 
 // 
 // 
@@ -10,6 +15,7 @@ let expirienceData = '';
 data.experience.forEach(item => {
     expirienceData += `<section class="mb-5">`;
     expirienceData += `<h6><a href="${item.site_address}">${item.site_address}</a></h6>`;
+    expirienceData += `<p>Kodas GitHub: <a href="${item.git_address}">${item.git_address}</a></p>`;
     expirienceData += `<p>${item.description}</p>`;
     expirienceData += `</section>`;
 });
