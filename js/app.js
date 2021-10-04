@@ -9,7 +9,7 @@ document.querySelector('.profile-data').appendChild(newLine);
 
 
 // 
-// 
+// +
 
 let expirienceData = '';
 data.experience.forEach(item => {

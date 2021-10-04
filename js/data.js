@@ -23,7 +23,7 @@ const data = {
         ["2019 08-09", "VILNIUS CODING SCHOOL" ],
         ["2001-2005", "VILNIAUS DAILĖS AKADEMIJA"],
     ],
-    "profile": "Esu pradedantysis programuotojas. Anksčiau dirbau skulptoriaus darbą. Per savanorystę ir anksčiau su IT sritimi karts nuo karto susidurdavau. Gyvenimas taip pasisuko, kad teko atsisakyti esamo darbo ir rinktis kitą sritį. Taip pradėjau programuoti. Iššūkių tikrai netrūksta, bet būtent tai yra didžiausia varomoji jėga. ",
+    "profile": "Esu pradedantysis programuotojas. Anksčiau dirbau skulptoriaus darbą. Per savanorystę ir anksčiau su IT sritimi karts nuo karto susidurdavau. Pribrendo tokia situacija, kad teko atsisakyti esamo darbo ir rinktis kitą sritį. Taip pradėjau programuoti. Iššūkių tikrai netrūksta, bet būtent tai yra didžiausia varomoji jėga. ",
     "profile_newLine": "Šiuo metu mano tikslas toliau gilinti Javascript žinias ir įgyti pagrindus dirbant su React frameworku.",
 
     "experience": [
@@ -35,8 +35,13 @@ const data = {
         {
             "site_address": "https://a-audrius.github.io/Book-shop/",
             "git_address": "https://github.com/A-Audrius/Book-shop",
-            "description": 'Visada norėjau sukurti kažką tokio kaip elektroninę parduotuvę, kur duomenys atkeliauja iš nuotolinio serverio (šiuo atveju duomenys laikomi json faile) ir „stebuklingu būdu“ atsivaizduoja naršyklėje. Įdomu buvo, kad galėjau panaudoti OOP (objektinį programavimą). Šis projektas dar tęsiamas.'
-        },
+            "description": 'Visada norėjau sukurti kažką tokio kaip elektroninę parduotuvę, kur duomenys atkeliauja iš nuotolinio serverio (šiuo atveju duomenys laikomi lokaliai json faile) ir „stebuklingu būdu“ atsivaizduoja naršyklėje. Įdomu buvo, kad galėjau panaudoti OOP (objektinį programavimą), pirmą kartą css kode panaudojau kintamuosius. Neveikia viskas 100%proc idealiai, dar prie šio projekto dirbu.' 
+              },
+            {
+            "site_address": "https://a-audrius.github.io/cv-app/",
+            "git_address": "https://github.com/A-Audrius/cv-app",
+            "description": "Tai nedidelės apimties darbas: 'Mano-CV'. Pirmą kartą rimčiau dirbau su Webpack, labiau pasinaudojau Bootstrap galimybėmis"
+        },     
     ]
     
 };
